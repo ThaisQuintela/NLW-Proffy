@@ -1,0 +1,94 @@
+#page-success {
+    background-color: var(--color-primary);
+    
+    background-image: url(/images/success-background.svg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center; 
+}
+
+#container {
+    width: auto;
+    height: auto;
+ 
+    justify-content: center;
+}
+
+.success-message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.success-message img {
+    height: 10rem;
+}
+
+.success-message  h1 {
+    font: 700 3.5rem Archivo;
+    color: var(--color-title-in-primary);
+    margin-top: 2rem;
+}
+
+.success-message h6 {
+    color: var(--color-text-in-primary);
+    font: 400 1.2rem Poppins;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+#page-success .access {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 4rem;
+}
+
+#page-success button {
+    width: 176px;
+    height: 5.6rem;
+    background: var(--color-secondary);
+    color: var(--color-button-text);
+    border: 0;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    font: 700 1.6rem Archivo;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: none;
+    transition: background 0.2s;
+    margin-top: 3.2rem;
+}
+
+#page-success a {
+    text-decoration: none;
+}
+
+#page-success button:hover {
+    background-color: var(--color-secondary-dark);
+}
+
+@media (max-width: 699px) {
+    :root {
+        font-size: 60.5%;
+    }
+
+    #page-success {
+        background-repeat: repeat-y;
+    }
+
+    #container {
+        width: 90%;
+    }
+}
+
+@media (min-width: 700px) {
+    :root {
+        font-size: 70.5%;
+    }
+}
