@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/.github/logo.svg" alt="Proffy"></h1>
+<h1 align="center"><img src="/.github/logo.svg" alt="Proffy" color="#8257E5"></h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/thais-quintela/">
@@ -22,10 +22,10 @@
 
 <div>
     <h4>📋 Index</h4>
-    <a href="#website">Website</a> • 
-    <a href="#status">Status</a> • 
-    <a href="#features">Features</a> • 
-    <a href="#technologies">Technologies</a> • 
+    <a href="#website">Website • </a>
+    <a href="#status">Status • </a>
+    <a href="#features">Features • </a>
+    <a href="#technologies">Technologies • </a>
     <a href="#run">How to run</a>
 </div>
 
@@ -68,7 +68,7 @@
 
 ---
 
-<div>
+<div id="run">
     <h1>🤔 How to run</h1>
     <p>If you want to run this project in your computer you will need to:</p>
 </div>
