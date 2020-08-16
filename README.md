@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/.github/logo.svg" alt="Proffy" color="#8257E5"></h1>
+<h1 align="center"><img src="/.github/logo.png" alt="Proffy" color="#8257E5"></h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/thais-quintela/">
