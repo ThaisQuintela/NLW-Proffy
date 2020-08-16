@@ -2,7 +2,10 @@
 
 <div align="center">
     
-    [![Linkedin](https://img.shields.io/static/v1?label=%20&message=Thais%20Quintela&color=brightgreen&style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/thais-quintela/)<space> <space>[![GitHub Repository size](https://img.shields.io/github/repo-size/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic)]<space><space>[![GitHub License](https://img.shields.io/github/license/ThaisQuintela/NLW-Proffy?style=plastic)](https://github.com/ThaisQuintela/NLW-Proffy/blob/master/LICENSE.txt)<space><space>[![GitHub Last commit](https://img.shields.io/github/last-commit/ThaisQuintela/NLW-Proffy?style=plastic)]
+    ![Linkedin](https://img.shields.io/static/v1?label=%20&message=Thais%20Quintela&color=brightgreen&style=plastic&logo=LinkedIn)(https://www.linkedin.com/in/thais-quintela/)<space> <space>
+    ![GitHub Repository size](https://img.shields.io/github/repo-size/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic)<space><space>
+    ![GitHub License](https://img.shields.io/github/license/ThaisQuintela/NLW-Proffy?style=plastic)(https://github.com/ThaisQuintela/NLW-Proffy/blob/master/LICENSE.txt)<space><space>
+    ![GitHub Last commit](https://img.shields.io/github/last-commit/ThaisQuintela/NLW-Proffy?style=plastic)
 
 </div>
 
