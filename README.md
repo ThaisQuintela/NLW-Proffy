@@ -20,8 +20,8 @@
 
 ---
 
-<div>
-    <h4>📋 Index</h4>
+<div align="center">
+    <h1>📋 Index</h1>
     <a href="#website">Website • </a>
     <a href="#status">Status • </a>
     <a href="#features">Features • </a>
@@ -33,15 +33,16 @@
 
 <div>
     <h1>😍 Preview</h1>
-    <img src="/.github/Proffy_phone.png" alt="Mobile view">
-    <img src="/.github/Proffy_laptop.png" alt="PC view">
+    <img src="/.github/Proffy_laptop.png" alt="PC view" width="500">
+    <img src="/.github/Proffy_phone.png" alt="Mobile view" height="300">
 </div>
 
 ---
 
 <div id="website">
     <h1>👾 Website</h1>
-    <p>The demo website can be acessed here: <a href="">Proffy</a></p>
+    <p>The demo website can be acessed here: Soon
+        <a href="">Proffy</a></p>
 </div>
 
 ---
@@ -75,10 +76,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/thaisquintela/
+git clone https://github.com/thaisquintela/NLW-Proffy
 
 # Enter directory
-cd 
+cd NLW-Proffy
 
 # Download dependencies
 npm i
