@@ -20,11 +20,10 @@
 
 ---
 
+<h1>📋 Index</h1>
 <div align="center">
-    <h1>📋 Index</h1>
     <a href="#website">Website • </a>
     <a href="#status">Status • </a>
-    <a href="#features">Features • </a>
     <a href="#technologies">Technologies • </a>
     <a href="#run">How to run</a>
 </div>
@@ -33,8 +32,10 @@
 
 <div>
     <h1>😍 Preview</h1>
-    <img src="/.github/Proffy_laptop.png" alt="PC view" width="500">
-    <img src="/.github/Proffy_phone.png" alt="Mobile view" height="300">
+    <div align="center">
+        <img src="/.github/Proffy_laptop.png" alt="PC view" width="500">
+        <img src="/.github/Proffy_phone.png" alt="Mobile view" height="300">
+    </div>
 </div>
 
 ---
