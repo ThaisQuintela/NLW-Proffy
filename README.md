@@ -1,19 +1,19 @@
 <h1 align="center"><img src="/.github/logo.png" alt="Proffy" color="#8257E5"></h1>
 
 <div align="center">
-    
-    ![Linkedin](https://img.shields.io/static/v1?label=%20&message=Thais%20Quintela&color=brightgreen&style=plastic&logo=LinkedIn)(https://www.linkedin.com/in/thais-quintela/)<space> <space>
-    ![GitHub Repository size](https://img.shields.io/github/repo-size/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic)<space><space>
-    ![GitHub License](https://img.shields.io/github/license/ThaisQuintela/NLW-Proffy?style=plastic)(https://github.com/ThaisQuintela/NLW-Proffy/blob/master/LICENSE.txt)<space><space>
-    ![GitHub Last commit](https://img.shields.io/github/last-commit/ThaisQuintela/NLW-Proffy?style=plastic)
-
+    <a href="https://www.linkedin.com/in/thais-quintela/">
+        <img src="https://img.shields.io/static/v1?label=%20&message=Thais%20Quintela&color=brightgreen&style=plastic&logo=LinkedIn" alt="Linkedin"/>
+    </a>  
+    <a><img src="https://img.shields.io/github/repo-size/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic" alt="Repository size" /></a>  
+    <a href="https://github.com/ThaisQuintela/NLW-Proffy/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic" alt="License MIT" /></a>  
+    <a><img src="https://img.shields.io/github/last-commit/ThaisQuintela/NLW-Proffy?style=plastic" alt="Last commit" /></a>
+  
 </div>
 
 <p align="center">Project done during the NextLevelWeek 2.0  <a href="https://github.com/Rocketseat">@RocketSeat</a><br><br>Proffy is a platform with the objective of connecting teachers and students in a simple and efficient way.</p>
 
 <p align="center">
     <a href="README.md">🇬🇧</a>
-    
     <a href="README-pt.md">🇧🇷</a>
 </p>
 
@@ -21,9 +21,12 @@
 
 <h1>📋 Index</h1>
 <div align="center">
-    <a href="#website">Website • </a>
-    <a href="#status">Status • </a>
-    <a href="#technologies">Technologies • </a>
+    <a href="#website">Website</a>
+    <p> • </p>
+    <a href="#status">Status</a>
+    <p> • </p>
+    <a href="#technologies">Technologies</a>
+    <p> • </p> 
     <a href="#run">How to run</a>
 </div>
 
