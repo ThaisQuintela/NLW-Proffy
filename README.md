@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/.github/logo.svg" alt="Proffy"></h1>
+<h1 align="center"><img src="/.github/logo.svg" alt="Proffy" color="#8257E5"></h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/thais-quintela/">
@@ -20,12 +20,12 @@
 
 ---
 
-<div>
-    <h4>📋 Index</h4>
-    <a href="#website">Website</a> • 
-    <a href="#status">Status</a> • 
-    <a href="#features">Features</a> • 
-    <a href="#technologies">Technologies</a> • 
+<div align="center">
+    <h1>📋 Index</h1>
+    <a href="#website">Website • </a>
+    <a href="#status">Status • </a>
+    <a href="#features">Features • </a>
+    <a href="#technologies">Technologies • </a>
     <a href="#run">How to run</a>
 </div>
 
@@ -33,15 +33,16 @@
 
 <div>
     <h1>😍 Preview</h1>
-    <img src="/.github/Proffy_phone.png" alt="Mobile view">
-    <img src="/.github/Proffy_laptop.png" alt="PC view">
+    <img src="/.github/Proffy_laptop.png" alt="PC view" width="500">
+    <img src="/.github/Proffy_phone.png" alt="Mobile view" height="300">
 </div>
 
 ---
 
 <div id="website">
     <h1>👾 Website</h1>
-    <p>The demo website can be acessed here: <a href="">Proffy</a></p>
+    <p>The demo website can be acessed here: Soon
+        <a href="">Proffy</a></p>
 </div>
 
 ---
@@ -68,17 +69,17 @@
 
 ---
 
-<div>
+<div id="run">
     <h1>🤔 How to run</h1>
     <p>If you want to run this project in your computer you will need to:</p>
 </div>
 
 ```bash
 # Clone the repository
-git clone https://github.com/thaisquintela/
+git clone https://github.com/thaisquintela/NLW-Proffy
 
 # Enter directory
-cd 
+cd NLW-Proffy
 
 # Download dependencies
 npm i
