@@ -13,8 +13,8 @@
 <p align="center">Project done during the NextLevelWeek 2.0  <a href="https://github.com/Rocketseat">@RocketSeat</a><br><br>Proffy is a platform with the objective of connecting teachers and students in a simple and efficient way.</p>
 
 <p align="center">
-    <a href="README.md">🇬🇧</a>
-    <a href="README-pt.md">🇧🇷</a>
+    <a href="README.md"><img src="/.github/england flag.png" alt="English" height="50" /></a>
+    <a href="README-pt.md"><img src="/.github/pngfind.com-brazil-flag-png-154443.png" alt="Português" height="50" /></a>
 </p>
 
 ---
