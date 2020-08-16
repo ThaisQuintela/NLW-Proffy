@@ -1,6 +1,6 @@
 <h1 align="center"><img src="/.github/logo.svg" alt="Proffy" color="#8257E5"></h1>
 
-<p align="center">
+<div align="center">
     <a href="https://www.linkedin.com/in/thais-quintela/">
         <img src="https://img.shields.io/static/v1?label=%20&message=Thais%20Quintela&color=brightgreen&style=plastic&logo=LinkedIn" alt="Thais Quintela">
     </a>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/repo-size/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic" alt="Repository size">
     
     <img src="https://img.shields.io/github/last-commit/ThaisQuintela/NLW-Proffy?style=plastic" alt="Last commit">
-</p>
+</div>
 
 <p align="center">Project done during the NextLevelWeek 2.0  <a href="https://github.com/Rocketseat">@RocketSeat</a><br><br>Proffy is a platform with the objective of connecting teachers and students in a simple and efficient way.</p>
 
