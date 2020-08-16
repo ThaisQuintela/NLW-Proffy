@@ -6,7 +6,7 @@
     </a>  
     <a><img src="https://img.shields.io/github/repo-size/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic" alt="Repository size" /></a>  
     <a href="https://github.com/ThaisQuintela/NLW-Proffy/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/ThaisQuintela/NLW-Proffy?color=brightgreen&style=plastic" alt="License MIT" /></a>  
-    <a><img src="https://img.shields.io/github/last-commit/ThaisQuintela/NLW-Proffy?style=plastic" alt="Last commit" /></a>
+    <a><img src="https://img.shields.io/github/last-commit/ThaisQuintela/NLW-Proffy?style=plastic" alt="Last commit" /></a><br><br>
   
 </div>
 
@@ -21,12 +21,9 @@
 
 <h1>📋 Index</h1>
 <div align="center">
-    <a href="#website">Website</a>
-    <p> • </p>
-    <a href="#status">Status</a>
-    <p> • </p>
-    <a href="#technologies">Technologies</a>
-    <p> • </p> 
+    <a href="#website">Website</a> • 
+    <a href="#status">Status</a> • 
+    <a href="#technologies">Technologies</a> • 
     <a href="#run">How to run</a>
 </div>
 
@@ -45,7 +42,6 @@
 <div id="website">
     <h1>👾 Website</h1>
     <p>The demo website can be acessed here: Soon
-        <a href="">Proffy</a></p>
 </div>
 
 ---
